@@ -1,8 +1,8 @@
-Group 1 Members : Austin Alcancia, Nghi Nguyen, An Nguyen, Harsha Rauniyar.
+# CS 241 - Average Machine Learning Enjoyers Final Project 
+## Nghi Nguyen, Austin Alcancia, An Nguyen, Harsha Rauniyar
 
+# Summary
 
-This is a total of 38 updates we made to our progress of the Final project.
-Just click on the folders containing each update to look into what we have of the script in any given time.
-
+CheckersGame is a project that we made using Unity in an attempt to replicate the Checkers Game we know and love.
 
 To play the game, download the CheckersGame folder. Click on the .exe application to run the game.
