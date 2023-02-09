@@ -1,4 +1,4 @@
-# CS 241 - Average Machine Learning Enjoyers Final Project 
+# CS 241 - Group 1 Final Project 
 ## Nghi Nguyen, Austin Alcancia, An Nguyen, Harsha Rauniyar
 
 # Summary
